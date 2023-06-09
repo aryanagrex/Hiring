@@ -1,42 +1,33 @@
-**Objective:**
+# Frontend Engineer Assignment: Sales Dashboard
 
-Your task is to develop a simple eCommerce web application with React.js and Redux for state management. The application will have functionalities like viewing product catalog, adding products to the cart, and checking out.
+## Description
+Create a web application "Sales Dashboard" using ReactJS. This application should display sales data in the form of various charts and tables. The data can be hardcoded or loaded from a JSON file.
 
-**Project Details:**
+## Requirements
 
-* Product Catalog: The main page of the application should display a list of products. Each product will have the following attributes:
-* Name
-* Description
-* Price
-* Image
-* Product Detail Page: When a user clicks on a product, they should be taken to a product detail page where they can see more information about the product.
-* Shopping Cart: Users should be able to add products to a shopping cart. The cart should show the total price of all items in it. Users should also have the ability to remove items from the cart.
-* Checkout Page: Users should be able to proceed to a checkout page. On this page, users should be able to enter their shipping information and see the final price with shipping calculated in.
+1. Use ReactJS for the frontend, Redux for state management, and React Router for navigation.
+2. The dashboard should display the following components:
+    - A line chart showing sales over time.
+    - A bar chart comparing sales of different products.
+    - A pie chart showing the percentage contribution of each product to total sales.
+    - A table listing all sales records. Each record should include sale ID, product, quantity, and total price.
+3. Implement filters that allow the user to view sales data for specific periods (e.g., last week, last month, last year) or specific products.
+4. Use a charting library like Chart.js or D3.js for visualizing data.
 
-**Technical Requirements:**
+## Evaluation Criteria
 
-* The application must be built with React.js (preferably using functional components and hooks) and Redux for state management.
-* Use a fake REST API (like JSON Server) to simulate fetching data from the backend.
-* The application should be responsive and have a user-friendly UI. You can use a library like Bootstrap, Material-UI, or build your own CSS.
-* Code should be clean, well-commented, and follow best practices.
-* The application should handle errors gracefully. Users should be informed if something goes wrong.
+- **Code quality:** Your code should be well-organized and maintainable. Follow best practices for React, Redux, and JavaScript.
+- **Functionality:** Your application should meet all the requirements listed above.
+- **Test Case:** Include unit test cases using Jest and React Testing Library.
+- **User interface:** The user interface should be intuitive and user-friendly. Use a CSS framework such as Bootstrap or Material-UI for styling.
+- **Error handling:** Your application should handle errors appropriately, including invalid form submissions and invalid filter inputs.
 
-**Bonus Points:**
+## Submission
 
-* Use React Router for navigation.
-* Add user authentication. Users should be able to register, login, and checkout only when they are logged in.
-* Add product search and filter functionality.
-* Write unit tests for your components using a library like Jest.
-* Deploy the application on a platform like Netlify, Vercel, or Heroku.
-
-**Submission:**
-
-* Fork this GitHub repository and create a new branch for your code changes.
-* Implement the application according to the requirements listed above.
-* Submit a pull request to the main repository when you are finished.
-* Include a README file that explains how to set up and run the application locally.
-* Your code should be well-documented and include comments where necessary.
-* Don't submit zip files
-* Code should be hosted on your repo on GitHub/BitBucket or any other VCS platform
-
-**In case of any ambiguity feel free to todo any assumption. But do state it in your README**
+1. Fork the provided GitHub repository and create a new branch for your code.
+2. Implement the application according to the requirements.
+3. Submit a pull request to the main repository when finished.
+4. Include a README.md file that explains how to set up and run the application locally.
+5. Your code should be well-documented and include comments where necessary.
+6. Do not submit zip files. Code should be hosted on your GitHub/BitBucket or any other VCS platform.
+7. **In case of any ambiguity, feel free to make assumptions, but remember to mention them in your README**.
