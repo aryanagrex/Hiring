@@ -46,22 +46,12 @@ Deploy the application on a platform like Netlify, Vercel, or Heroku.
 
 **Submission:**
 
-The source code should be pushed to a GitHub repository. Include a README file with instructions on how to install and run the project locally.
+Fork this GitHub repository and create a new branch for your code changes.
+Implement the application according to the requirements listed above.
+Submit a pull request to the main repository when you are finished.
+Include a README file that explains how to set up and run the application locally.
+Your code should be well-documented and include comments where necessary.
+Don't submit zip files
+Code should be hosted on your repo on GitHub/BitBucket or any other VCS platform
 
-Include a link to the live deployed version of the application.
-
-Provide a document outlining your design and architectural decisions.
-
-**Evaluation:**
-
-Your application will be evaluated based on the following criteria:
-
-Functionality: Does the application do what was asked?
-
-Code Quality: Is the code clean, well-organized, and consistent?
-
-UI/UX: Is the application easy to use and visually appealing?
-
-Error Handling: How does the application handle potential errors?
-
-Bonus Features: Does the application include any of the bonus features mentioned above?
+** In case of any ambiguity feel free to todo any assumption. But do state it in your README **
