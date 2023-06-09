@@ -10,9 +10,9 @@ We're looking for individuals who are eager to tackle challenging problems, have
 
 At Agrex.ai, we believe in the power of teamwork and creativity. We foster an environment that encourages innovation and supports continuous learning. Our teams are composed of self-driven individuals who are not afraid to experiment and take risks. If you're someone who thrives in a fast-paced, dynamic environment, Agrex.ai is the perfect place for you to grow and make a difference!
 
-## About The Challenge
+## About The Assignments
 
-The purpose of this challenge is to gauge your technical abilities, problem-solving skills, and creativity. Don't worry, it's not all about getting the 'right' answer. We're more interested in understanding your thought process, your approach to problem-solving, and your ability to write clean, efficient code. 
+The purpose of these assignments is to gauge your technical abilities, problem-solving skills, and creativity. Don't worry, it's not all about getting the 'right' answer. We're more interested in understanding your thought process, your approach to problem-solving, and your ability to write clean, efficient code. 
 
 Depending on the role you're applying for, there are different assignments. Please ensure you check the assignment for the specific role before getting started.
 
