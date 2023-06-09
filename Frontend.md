@@ -47,11 +47,17 @@ Deploy the application on a platform like Netlify, Vercel, or Heroku.
 **Submission:**
 
 Fork this GitHub repository and create a new branch for your code changes.
+
 Implement the application according to the requirements listed above.
+
 Submit a pull request to the main repository when you are finished.
+
 Include a README file that explains how to set up and run the application locally.
+
 Your code should be well-documented and include comments where necessary.
+
 Don't submit zip files
+
 Code should be hosted on your repo on GitHub/BitBucket or any other VCS platform
 
-** In case of any ambiguity feel free to todo any assumption. But do state it in your README **
+**In case of any ambiguity feel free to todo any assumption. But do state it in your README**
